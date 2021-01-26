@@ -8,9 +8,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.0.5",
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
     "@chakra-ui/props-docs": "1.0.11",
     "@chakra-ui/react": "1.1.6",
     "@chakra-ui/theme-tools": "1.0.3",
@@ -21,6 +18,7 @@
     "@octokit/rest": "^18.0.12",
     "date-fns": "^2.16.1",
     "docsearch.js": "^2.6.3",
+    "execa": "^5.0.0",
     "focus-visible": "5.2.0",
     "formik": "^2.2.5",
     "highlight-words-core": "^1.2.2",
@@ -29,6 +27,8 @@
     "next-mdx-enhanced": "^5.0.0",
     "next-seo": "^4.17.0",
     "prism-react-renderer": "^1.1.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
     "react-icons": "^4.1.0",
     "react-live": "^2.2.3",
     "react-multi-ref": "1.0.0",
